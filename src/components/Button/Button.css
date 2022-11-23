@@ -1,0 +1,16 @@
+button{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 8%;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 98vh;
+}
